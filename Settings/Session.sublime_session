@@ -1,0 +1,3435 @@
+{
+	"folder_history":
+	[
+		"/home/silas/app/CMS1051",
+		"/home/silas/app/cms",
+		"/mnt/app/cms",
+		"/home/silas/source/wechat-php-sdk",
+		"/home/silas/app/middleman",
+		"/home/silas/workspace/rubychina4android",
+		"/home/silas/workspace/ruby-china",
+		"/home/silas/app/portal/woger_drupal_customer_portal",
+		"/mnt/app/jianmeizu",
+		"/home/silas/.config/sublime-text-2/Packages",
+		"/media/c41cb33e-e07f-446f-8d7e-04d1dd0d9d6b/silas/app/cms",
+		"/media/c41cb33e-e07f-446f-8d7e-04d1dd0d9d6b/silas"
+	],
+	"last_window_id": 24,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sto",
+						"stock"
+					],
+					[
+						"all",
+						"allegroDescription"
+					],
+					[
+						"field_allegro",
+						"field_allegro_id"
+					],
+					[
+						"pare",
+						"parent_product"
+					],
+					[
+						"uns",
+						"unset"
+					],
+					[
+						"aller",
+						"allegro_product"
+					],
+					[
+						"ca",
+						"catch"
+					],
+					[
+						"alle",
+						"allegro_product"
+					],
+					[
+						"ini",
+						"ini_set"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"cm",
+						"cms_product"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"field",
+						"field2unset"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"drup",
+						"drupal_write_record"
+					],
+					[
+						"key",
+						"array_keys"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						":php",
+						"Snippet: php_eval"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: blocks"
+					],
+					[
+						":g",
+						"Git: Gitk"
+					],
+					[
+						":gitk",
+						"Git: Gitk"
+					],
+					[
+						":git",
+						"Git: Gitk"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"alignment",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						":sni",
+						"Snippet: field_ui_get_destinations"
+					],
+					[
+						"sip",
+						"Snippet: node_is_page"
+					],
+					[
+						"Git: Gitk",
+						"Git: Gitk"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"svn info",
+						"SVN: Info"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git: add ",
+						"Git: Add Current File"
+					],
+					[
+						"git: G",
+						"Git: Gitk"
+					],
+					[
+						"svn log",
+						"SVN: Log"
+					],
+					[
+						"svn:status",
+						"SVN: Status"
+					],
+					[
+						":gui",
+						"Git: Graph Current File"
+					],
+					[
+						":Gui",
+						"Git: Gui"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/silas/app/CMS1051/sites/all/modules/woger_allegro/woger_allegro.module",
+				"/home/silas/app/CMS1051/sites/all/modules/woger_actions/woger_actions.module",
+				"/home/silas/app/cms/sites/all/modules/ebay/themes/ebay.tpl.php",
+				"/home/silas/app/cms/sites/all/modules/woger/woger.module",
+				"/home/silas/app/cms/INSTALL.txt",
+				"/home/silas/app/cms/sites/all/modules/export_pdf/templates/partlist.tpl.php",
+				"/home/silas/app/cms/tian",
+				"/home/silas/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/silas/app/cms/devel/tian.php",
+				"/home/silas/app/cms/devel/drupal_write_record.php",
+				"/home/silas/app/cms/index.php",
+				"/home/silas/app/cms/devel/category.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"productStock",
+					"_woger_actions_sync_context",
+					"language",
+					"_woger_actions_build_up_request",
+					"_cron",
+					"9pt",
+					"9px",
+					"9pt",
+					"header-image",
+					"#header-image",
+					"_woger_actions_filter_fields",
+					"woger_trigger_sync_action",
+					"trigger",
+					"woger_actions_cron_settings",
+					"woger_actions_woger_product_fields",
+					"_woger_actions_filter_fields",
+					"presave_node",
+					"woger_array_recursive_diff",
+					"woger_trigger_sync_action",
+					"trigger",
+					"ebay",
+					"woger_allegro_check_properties",
+					"Description",
+					"Contact",
+					"CDATA",
+					"SimpleXMLExtended",
+					"woger_product_for_template",
+					"parent_product",
+					"woger_product_for_template",
+					"woger_allegro_nids_to_sync",
+					"woger_product_for_template",
+					"product_for_allegro",
+					"variables",
+					"product_for_template",
+					"allegro_product",
+					"sku",
+					"allegro_product",
+					"allegro_product_xml",
+					"woger_allegro_save_allegro_id",
+					"getNode",
+					"_cmsConnectorResource",
+					"Application_Model_CmsConnector_Cms",
+					"getProduct",
+					"Application_Model_CmsConnector_Cms",
+					"setCmsConnector",
+					"cmsConnector",
+					"convertProperties",
+					"getNodeCached",
+					"p_node",
+					"getNodeCached",
+					"setNodeCached",
+					"getNodeCached",
+					"setShoptypeRelated",
+					"getCmsConnector",
+					"getProduct",
+					"translation",
+					"getProduct",
+					"syncProduct",
+					"sku",
+					"syncProducts",
+					"update_node",
+					"translation",
+					"syncProduct",
+					"syncProducts",
+					"node_",
+					"node_retrieve",
+					"syncProduct",
+					"syncProducts",
+					"_productSync",
+					"productSync",
+					"syncProduct",
+					"syncProducts",
+					"prodcut",
+					"prodcut_image",
+					"woger_product_parts",
+					"diff",
+					"node",
+					"node_diff_prepare",
+					"filefield_remove",
+					"field_temp",
+					"image",
+					"_error_element",
+					"field",
+					"export_partlist_pdf",
+					"ctrl+f",
+					"ctrl+shift+f",
+					"shift",
+					"ctrl+shift+f",
+					"ctrl+shift+b",
+					"ctrl+b",
+					"uid",
+					"These",
+					"forward",
+					"db_change_co",
+					"attributes",
+					"db_add_column",
+					"column",
+					"MAINTENANCE_MODE",
+					"define",
+					"form",
+					"module",
+					"node_load"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"        );"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"woger_al",
+						"sites/all/modules/woger_allegro/woger_allegro.module"
+					],
+					[
+						"allegro",
+						"sites/all/modules/woger_allegro/woger_allegro.module"
+					],
+					[
+						"woger_ac",
+						"sites/all/modules/woger_actions/woger_actions.module"
+					],
+					[
+						"woger_all",
+						"sites/all/modules/woger_allegro/woger_allegro.module"
+					],
+					[
+						"woger_a",
+						"sites/all/modules/woger_actions/woger_actions.module"
+					],
+					[
+						"all",
+						"allegro.html"
+					],
+					[
+						"stock",
+						"application/controllers/StockController.php"
+					],
+					[
+						"pro",
+						"application/models/Product.php"
+					],
+					[
+						"cms",
+						"application/models/CmsMapper.php"
+					],
+					[
+						"magen",
+						"library/Middleman/Resource/Magentoconnector.php"
+					],
+					[
+						"sync",
+						"application/models/Sync.php"
+					],
+					[
+						"e",
+						"application/models/EGain.php"
+					],
+					[
+						"part",
+						"sites/all/modules/export_pdf/templates/partlist.tpl.php"
+					],
+					[
+						"mysql",
+						"includes/database.mysql.inc"
+					],
+					[
+						"woger_pa",
+						"sites/all/modules/woger_parts_management/woger_parts_management.module"
+					],
+					[
+						"ebay.tp",
+						"sites/all/modules/ebay/themes/ebay.tpl.php"
+					],
+					[
+						"ebay.t",
+						"sites/all/modules/ebay/themes/ebay.tpl.php"
+					],
+					[
+						"woger",
+						"temp_workflow_2/woger_workflow/woger_workflow.module"
+					],
+					[
+						"woger.m",
+						"sites/all/modules/woger/woger.module"
+					],
+					[
+						"node",
+						"modules/node/node.module"
+					],
+					[
+						"in",
+						"INSTALL.txt"
+					],
+					[
+						"node.m",
+						"modules/node/node.module"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"inst",
+						"INSTALL.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"meth",
+						"methodName"
+					],
+					[
+						"sto",
+						"store_type"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"cm",
+						"cms_product"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"field",
+						"field2unset"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"drup",
+						"drupal_write_record"
+					],
+					[
+						"key",
+						"array_keys"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/silas/app/middleman/application/models/EGain.php",
+					"settings":
+					{
+						"buffer_size": 10080,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\n\nclass SyncController extends Zend_Controller_Action\n{\n	/**\n	 * @var Application_Model_MagentoMapper\n	 */\n	private $_magento;\n\n	/**\n	 * @var Application_Model_CmsMapper\n	 */\n	private $_cms;\n\n	/**\n	 * @var Application_Model_BwMapper\n	 */\n	private $_bw;\n\n	/**\n	 * @var Application_Model_Sync\n	 */\n	private $_sync;\n\n    public function init()\n    {\n        $this->_magento = new Application_Model_MagentoMapper();\n        $this->_cms 	= new Application_Model_CmsMapper();\n        $this->_bw 		= new Application_Model_BwMapper();\n        $this->_sync	= new Application_Model_Sync();\n    }\n\n    public function indexAction()\n    {\n        $this->view->magento_info 	= $this->_magento->getInfo();\n        $this->view->cms_info 		= $this->_cms->getInfo();\n    }\n\n    public function testAction()\n    {\n    	$this->view->test_result = $this->_sync->test( $this->_magento, $this->_cms );\n    }\n\n    public function postAction()\n    {\n\n    	switch ( $this->_getParam('action') ) {\n    		case 'post':\n    			// On post action we need to check the load on the server. We will not send\n    			// a call or do anything on a high load.\n    			$load = sys_getloadavg();\n    			if ( $load[0] > 20 ) {\n    				// Unaccaptable high load\n    				header('HTTP/1.1 503 Too busy, try again later');\n    				die('Server too busy. Please try again later.');\n    			}\n\n    			$data_values = $this->_getParam('post_values');\n    			if ( is_null( $data_values ) ) {\n    				$this->view->result = false;\n    			} else {\n\n    				/**\n    				 * Parse the post values\n    				 */\n    				$lines = explode(\"\\n\", $this->_getParam('post_values'));\n\n    				Zend_Registry::get('Zend_Log')->info(\n						__CLASS__ . '::' . __FUNCTION__ .\n    					'::found ' . count($lines) . ' product lines'\n    				);\n\n\n    				list( $shop_type, $shop_lang ) = explode( '_', $this->_getParam('post_values_shop') );\n\n    				$update_list = array();\n\n    				foreach( $lines as $line ) {\n    					$split_result = explode( \"\\t\", $line );\n\n    					if ( count( $split_result ) == 2 ) {\n	    					list( $sku, $value) = $split_result;\n	    					$update_list[$sku] = $value;\n    					} elseif ( count( $split_result) == 3) {\n    					    list ($sku, $value, $special) = $split_result;\n    					    $update_list[$sku] = array ($value, $special);\n    					}\n    				}\n\n    				if ( count( $update_list ) ) {\n	    				$this->view->result =\n	    					$this->_sync->updateProducts(\n	    						$this->_magento, $this->_cms,\n	    						array( $this->_getParam('post_values_type') => $update_list ),\n	    						$shop_lang,\n	    						$shop_type\n	    					);\n    				}\n    			}\n    			break;\n    	}\n    }\n\n    public function syncAction()\n    {\n        // Log the particular action.\n        Zend_Registry::get('Zend_Log')->info(\n            __CLASS__ . '::' . __FUNCTION__ .\n            'Start sync action with SKU: ' .  $this->_getParam('sku') . \"\\n\\r\" .\n            'Store/shop type : ' . $this->_getParam('store_type') . ':' . $this->_getParam('shop_type') . \"\\n\\r\" .\n            'Force :' . (($this->_getParam('force')) ? 'Force ' : ' NO force') . \"\\n\\r\" .\n            'Clean :' . (($this->_getParam('clean')) ? 'Clean ' : ' NO clean') . \"\\n\\r\" .\n            'Images :' . (($this->_getParam('images')) ? 'Images ' : ' NO images') . \"\\n\\r\" .\n            'For action ' . $this->_getParam('type') . \"\\n\\r\"\n        );\n    	if ( $sku_list = $this->_getParam('sku') ) {\n    		$sku_list = explode( ',', $sku_list );\n    		foreach( $sku_list as $sku ) {\n    			$this->_sync->addSku( $sku );\n    		}\n    	}\n\n       	if ( $store_type = $this->_getParam('store_type') ) {\n			Zend_Registry::get('Zend_Log')->info(\n				get_class( $this ) . '::' . __FUNCTION__ . ':' .\n				'::store type : ' . $store_type\n			);\n   			$this->_sync->setStoreType( $store_type );\n    	}\n\n       	if ( $shop_type = $this->_getParam('shop_type') ) {\n			Zend_Registry::get('Zend_Log')->info(\n				get_class( $this ) . '::' . __FUNCTION__ . ':' .\n				'::shop type : ' . $shop_type\n			);\n   			$this->_sync->setShopType( $shop_type );\n    	}\n\n    	$force = $this->_getParam('force');\n    	if ( is_null( $force ) ) {\n    		$force = false;\n		} else {\n    		$force = $force ? true : false;\n		};\n\n    	$clean = $this->_getParam('clean');\n    	if ( is_null( $clean ) ) {\n    		$clean = false;\n		} else {\n    		$clean = $clean ? true : false;\n		};\n\n    	$cat_id = $this->_getParam('cat_id');\n    	if ( is_null( $cat_id ) ) {\n    		$cat_id = false;\n		} else {\n    		$cat_id = $cat_id ? $this->_getParam('cat_id') : false;\n		};\n\n		/**\n		 * Those arguments are being used by categorySyncSingleCategoryPerStoreView()\n		 * $source 		= Original Category Node ID\n		 * $translation	= Translated Category Node ID\n		 * $language	= Translated Category Node Language\n		 */\n\n		$source = ($this->_getParam('source')) ? (int) $this->_getParam('source') : false;\n		$translation = ($this->_getParam('translation')) ? (int) $this->_getParam('translation') : false;\n		$language = ($this->_getParam('language')) ? $this->_getParam('language') : false;\n\n    	$images = $this->_getParam('images');\n    	if ( is_null( $images ) ) {\n    		$images = false;\n		} else {\n    		$images = true;\n		};\n\n\n	    if ( $store_type && !$shop_type ) {\n	        $shop_type = explode('_', $store_type);\n	        $shop_type = array_shift($shop_type);\n\n    		$this->_sync->setShopType(ucfirst($shop_type));\n	    }\n\n    	switch ( $this->_getParam('type') ) {\n    		case 'products':\n				$this->view->result = $this->_sync->syncProducts( $this->_magento, $this->_cms, $force, $images );\n				break;\n    		case 'categories':\n		        Zend_Registry::get('Zend_Log')->info(\n					' Categories syncen '\n		        );\n    			if ( !$shop_type ) {\n    				return array('Shop type not set!');\n    		} \n				$this->view->result = $this->_sync->syncCategories( $this->_magento, $this->_cms, $force, $clean, $cat_id, $source, $translation, $language);\n				break;\n    		case 'categories_assign':\n\n		        Zend_Registry::get('Zend_Log')->info(\n					' Categories assign ' . $cat_id\n		        );\n\n				$this->view->result = $this->_sync->syncCategoriesAssignedProducts( $this->_magento, $this->_cms, $force, $clean, $cat_id);\n				break;\n    		case 'categories_images':\n				$this->view->result = $this->_sync->syncCategoriesImages( $this->_magento, $this->_cms, $force, $cat_id);\n				break;\n    		case 'categories_enabled':\n				$this->view->result = $this->_sync->syncCategoriesEnabled( $this->_magento, $this->_cms, $force, $cat_id);\n				break;\n    		case 'stock':\n				$this->view->result = $this->_sync->syncStock( $this->_magento, $this->_cms );\n				break;\n    		case 'cms_stock':\n\n		    	$stock = $this->_getParam('stock');\n		    	if ( is_null( $stock ) ) {\n		    		$this->view->result = array('Stock not set');\n		    		return;\n				}\n\n    			$this->view->result = $this->_sync->syncCmsStock( $this->_cms, $stock );\n    			break;\n    		case 'procurementprice':\n				$this->view->result = $this->_sync->syncProcurementPrice( $this->_magento, $this->_cms );\n				break;\n    		case 'price':\n				$this->view->result = $this->_sync->syncPrice( $this->_magento, $this->_cms );\n				break;\n    		case 'enabled':\n				$this->view->result = $this->_sync->syncEnabled( $this->_magento, $this->_cms );\n				break;\n    		case 'bwstock':\n				$this->view->result = $this->_sync->syncBwStock( $this->_bw, $this->_cms );\n				break;\n			case 'attribute':\n			    $this->view->result = $this->_sync->syncAttribute($this->_magento, $this->_cms);\n			    break;\n		    case 'save_relation':\n		        $this->view->result = $this->_sync->syncRelation($this->_magento, $this->_getParam('parent_sku'));\n		        break;\n    		case 'product_group':\n    		    $groupId   = $this->_getParam('primary_key');\n    		    $groupName = $this->_getParam('group_name');\n    		    $model = new Application_Model_Magento();\n    		    $result = $model->syncProductGroup($groupId, $groupName);\n    		    if (!is_array($result)) {\n    		        $result = $model->syncGroupAttributesRelation($groupId, $result);\n    		    }\n    		    $this->view->result = $result;\n    		    break;\n    		case 'group_attribute':\n    		    $model	= new Application_Model_Magento();\n    		    $this->view->result = $model->syncAttributeValues($this->_getParam('primary_key'), $this->_getParam('attribute_name'));\n    		    break;\n    		default :\n    			$this->view->result = array('nee');//$this->_sync->sync( $this->_magento, $this->_cms );\n    			break;\n    	}\n\n    }\n\n}",
+					"file": "/home/silas/app/middleman/application/controllers/SyncController.php",
+					"file_size": 8447,
+					"file_write_time": 1391997038000000,
+					"settings":
+					{
+						"buffer_size": 8440,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/application/models/Sync.php",
+					"settings":
+					{
+						"buffer_size": 37653,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/application/models/MagentoConnector/Magento.php",
+					"settings":
+					{
+						"buffer_size": 12689,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/library/Middleman/Resource/Magentoconnector.php",
+					"settings":
+					{
+						"buffer_size": 184104,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\n\nclass Middleman_Resource_CmsConnector extends Zend_Application_Resource_ResourceAbstract {\n\n    const VERSION = '1.0b';\n\n    private $_methods_class = 'Middleman_Resource_CmsConnector_Methods';\n    private $_methods;\n\n    // The nid_list XML is equal within the call\n    private $_nid_list_xml;\n\n    // The sku_list XML is equal within the call\n    private $_sku_list_xml;\n\n    // The category_sku_list XML is equal within the call\n    private $_category_sku_list_xml;\n\n    // The nid to sku list is equal within the call\n    private $_nid2sku_list_xml;\n    private $_nid2sku;\n\n    // The category_list XML is equal within the call\n    private $_category_list_xml;\n\n    // Curl cookie\n    private $_cookieFile;\n    private $_connected;\n\n    protected $_options = array(\n        'domain'		=> false,\n        'apik'			=> false,\n        'endpoint'		=> false,\n        'credentials_user'		=> false,\n        'credentials_password'	=> false,\n    );\n\n    public function init(){\n        $this->_methods = new $this->_methods_class();\n        $this->_cookieFile = tempnam('/tmp', 'CURLCOOKIE');\n        $this->_connected = false;\n    }\n\n    private function connect(){\n        // quick fix - set to true since we need the requestsend\n        $this->_connected = true;\n\n        // Attempt connection\n        try {\n            $result = $this->requestSend($this->_methods->CONNECT);\n\n            $result = $this->requestSend( $this->_methods->LOGIN, array(\n                $this->_options['credentials_user'],\n                $this->_options['credentials_password'],)\n            );\n\n            $this->_connected = is_array($result->getResult());\n            return $this->_connected;\n\n        } catch (Exception $e) {\n            Zend_Registry::get('Zend_Log')->info(\n                __CLASS__ . '::' . __FUNCTION__ .\n                '::requestsend with method:' . print_r($this->_methods->CONNECT, TRUE) .\n                '::Message:' . $e->getMessage() . '::errorcode:' . $e->getCode()\n            );\n        }\n        return array();\n    }\n\n    /**\n     * @param string $method_name\n     * @param Array $args\n     *\n     * @return Middleman_Resource_CmsConnector_RequestResult\n     */\n    private function requestSend( $methodName, $args = array() ){\n        if (!$this->_connected) {\n            if (!$this->connect()) {\n                throw new Exception('Cannot connect to CMS');\n            }\n        }\n        Zend_Registry::get('Zend_Log')->debug(\n            __CLASS__ . '::' . __FUNCTION__ .\n            '::' . $methodName\n        );\n\n        // Setup curl\n        $ch = curl_init();\n        curl_setopt($ch, CURLOPT_COOKIEJAR, $this->_cookieFile);\n        curl_setopt($ch, CURLOPT_COOKIEFILE, $this->_cookieFile);\n        curl_setopt($ch, CURLOPT_URL, $this->_options['endpoint']);\n\n        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);\n        curl_setopt($ch, CURLOPT_POST, true);\n\n        //curl_setopt($ch, CURLOPT_HEADER, true);\n\n        curl_setopt($ch, CURLOPT_HTTPHEADER, array( 'Content-Type: text/xml; charset=utf-8' ));\n\n        curl_setopt($ch, CURLOPT_POSTFIELDS, $this->requestPrepare($methodName, $args));\n        $output = curl_exec($ch);\n        $info 	= curl_getinfo($ch);\n        curl_close($ch);\n\n        $response = xmlrpc_decode($output, 'utf-8');\n\n        if (!is_array($response)) {\n            if ($info['http_code'] == '401' || $info['http_code'] == '406') {\n                Zend_Registry::get('Zend_Log')->info(\n                    get_class($this) . '::' . __FUNCTION__\n                    . '::got ' . $info['http_code'] . ' check Drupal watchdog'\n                );\n            } else {\n                Zend_Registry::get('Zend_Log')->debug(\n                    get_class($this) . '::' . __FUNCTION__\n                    . '::raw response:' . $output\n                    . '::raw info:' . print_r($info, true)\n                );\n            }\n        } elseif (xmlrpc_is_fault($response)) {\n            Zend_Registry::get('Zend_Log')->info(\n                get_class($this) . '::' . __FUNCTION__\n                . ':xmlrpc_fault:' . $response['faultString'] . ' ' .\n                $response['faultCode']\n            );\n            var_dump($response);\n\n            $response = false;\n        } else {\n            Zend_Registry::get('Zend_Log')->debug(\n                __CLASS__ . '::' . __FUNCTION__ .\n                ':call:' . $info['http_code']\n            );\n        }\n        return new Middleman_Resource_CmsConnector_RequestResult($response);\n    }\n\n    /**\n     * @param string $method_name\n     * @param Array $args\n     *\n     * @return string\n     */\n    private function requestPrepare( $methodName, $args ){\n        return xmlrpc_encode_request($methodName, $args);\n    }\n\n    /**\n     * @param string $method_name\n     * @param Array $args\n     *\n     * @return resource\n     */\n    private function streamContextCreate( $methodName, $args ){\n        // prepare the request context\n        return stream_context_create(array(\n            'http' => array(\n                'method' 	=> \"POST\",\n                'content' 	=> $this->requestPrepare($methodName, $args),\n            ))\n        );\n    }\n\n    /**\n     * updateTranslatedProductNode update translated product\n     *\n     * @param integer $productNid Node ID of the translated product\n     * @param array $nodeData -- node data to be updated\n     * \n     */\n    public function updateTranslatedProductNode( $productNid, $nodeData ){\n        return $this->requestSend( $this->_methods->NODE_SAVE, array( $productNid, $nodeData ))->getResult();\n    }\n\n    /**\n     * Set the stock (and only the stock) of a product\n     *\n     * @param unknown_type $product\n     */\n    public function setStock( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ .\n            ':' . print_r($product, true) . ' to ' . $product->getStock()\n        );\n\n        // The stock is set in the PARENT product, so fake the NID\n        $product->setNid( $product->getPnid() );\n\n        return $this->saveNode( $product, array( 'nid', 'stock' ) );\n    }\n\n    /**\n     * Set the price (and only the price) of a product\n     *\n     * @param unknown_type $product\n     */\n    public function setPrice( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . '::' . $product->getPrice()\n        );\n\n        return $this->saveNode( $product, array( 'nid', 'price' ) );\n    }\n\n    public function setPrices( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . '::' . $product->getPrice()\n        );\n\n        return $this->saveNode( $product, array( 'nid','price','specialprice' ));\n    }\n\n    /**\n     * Set the procurement price (and only the procurement price) of a product\n     *\n     * @param unknown_type $product\n     */\n    public function setCosts( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product, true)\n        );\n\n        return $this->saveNode( $product, array( 'nid', 'costs' ) );\n    }\n\n    public function setGrossProcPrice( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product, true)\n        );\n        // The gross_proc_price is set in the PARENT product, so fake the NID\n        $product->setNid( $product->getPnid() );\n\n        return $this->saveNode( $product, array( 'nid', 'gross_proc_price' ) );\n    }\n\n    public function setAmazonPrice( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product, true)\n        );\n\n        return $this->saveNode( $product, array( 'nid', 'amazon_price' ) );\n    }\n\n    public function setNetProcPrice( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product->getSku(), true)\n        );\n        // The net_proc_price is set in the PARENT product, so fake the NID\n        $product->setNid( $product->getPnid() );\n\n        return $this->saveNode( $product, array( 'nid', 'net_proc_price' ) );\n    }\n    public function setOutboundCartons( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product->getSku(), true)\n        );\n\n        // On Drupal the field field_product_package_coun. This filed is labelled outbound cartons on Drupal. It has the id field_product_package_coun\n        $product->setNid( $product->getPnid() );\n\n        return $this->saveNode( $product, array( 'nid', 'product_package_coun' ) );\n    }\n\n    public function setShippingCode( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product->getSku(), true)\n        );\n        // The shipping code is on parent lvl\n        $product->setNid( $product->getPnid() );\n\n        return $this->saveNode( $product, array( 'nid', 'shipping_code' ) );\n    }\n\n    /**\n     * Set the validity of product\n     *\n     * @param unknown_type $product\n     */\n    public function setEnabled( Application_Model_Product $product ){\n        return $this->setValid( $product );\n    }\n\n    public function setValid( Application_Model_Product $product ){\n        Zend_Registry::get('Zend_Log')->info(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' . print_r($product, true) .\n            ' to ' . ( $product->isValid() ? 'valid' : 'invalid' )\n        );\n        return $this->saveNode( $product, array( 'nid', 'valid' ) );\n    }\n\n    public function getVersion(){\n        return self::VERSION;\n    }\n\n    /**\n     * Some features are not yet available throug the regular services api\n     *\n     * Functions below handle these options\n     */\n\n    /**\n     * Get all product groups\n     *\n     * @return array\n     */\n    public function getGroups(){\n        $url_data = parse_url( $this->_options['endpoint'] );\n        $host  	  = $url_data['host'];\n\n        $xml = simplexml_load_string(\n            file_get_contents(\n                $xml_url = 'http://' . $host . '/woger_workflow/group/all_groups'\n            )\n        );\n\n        Zend_Registry::get('Zend_Log')->info(\n            get_class( $this ) . ' ' . __FUNCTION__ . ' ' .\n            $xml_url\n        );\n\n        $groups = array();\n        foreach($xml->groups->item as $item) {\n            $groups[intval($item->id)] = $item->name . '';\n        }\n\n        return $groups;\n    }\n\n    /**\n     * Get all product group details\n     *\n     * @return array\n     */\n    public function getGroup($groupId){\n        $url_data = parse_url( $this->_options['endpoint'] );\n        $host  	  = $url_data['host'];\n\n        $content_response =	file_get_contents(\n            $xml_url = 'http://' . $host . '/woger_workflow/group/' . $groupId\n        );\n        if ($content_response == 'false') {\n            return false;\n        }else {\n            $xml =  simplexml_load_string($content_response);\n        }\n\n        Zend_Registry::get('Zend_Log')->info(\n            get_class( $this ) . ' ' . __FUNCTION__ . ' ' .\n            $xml_url\n        );\n\n        return $this->xmlToArray($xml);\n    }\n\n    /**\n     * Get the node-id list\n     *\n     * 	<node>\n     *		<lang>Dutch</lang>\n     *		<nid>26</nid>\n     *		<shop_type>Discount</shop_type>\n     *		<sku>132456</sku>\n     *	</node>\n     *\n     * @param string $lang\n     */\n    public function getNidList( $lang = '' ){\n        return $this->getList( 'NidList', $lang ); // it takes about 30 seconds in 2013.12.26\n    }\n\n    /**\n     * Get the category list for a language and shop type\n     *\n     * <node>\n     * 	<title>Krachttraining</title>\n     * 	<nid>3657</nid>\n     *  <valid>(Valid|Not valid)</valid>\n     * 	<lang>Dutch</lang>\n     * 	<parent_nid>3460</parent_nid>\n     * 	<shop_type>Discount</shop_type>\n     * 	<translation_set_id>3657</translation_set_id>\n     * 	<taxonomy>4039,4037,4033,4060,4031,4038,4043,4030,4059,4029</taxonomy>\n     *  <timestamp_l_m>1291974004</timestamp_l_m>\n     * </node>\n     */\n    public function getCategoryList( $lang = false, $shop_type = false ){\n        return $this->getList( 'CategoryList', $lang, $shop_type );\n    }\n\n    /**\n     * Assume XML in the following form:\n     *\n     * 	<node>\n     *		<lang>Dutch</lang>\n     *	</node>\n     *\n     * @param string $type\n     * @param string $lang\n     * @param string $shop_type\n     */\n    private function getList( $type, $lang = false, $shop_type = false ){\n        $fn_name = 'get' . $type . 'Xml';\n        $xml = $this->$fn_name();\n        $args = array();\n\n        if ( $shop_type !== false )\n            $args[] = \"shop_type='\" . $shop_type . \"'\";\n\n        if ( $lang !== false && array_key_exists( $lang, $languages = $this->getLanguages() ) )\n            $args[] = \"lang='\" . $languages[$lang] . \"'\";\n\n        if ( count( $args ) )\n            return $xml->xpath( '/xml/node[' . implode( ' and ', $args ) .']' );\n        else\n            return $xml->xpath( '/xml/node' );\n    }\n\n    public function getSkuList(){\n        return $this->getSkuListXml()->xpath( \"/xml/node\" );\n    }\n\n    /**\n     * Get a list array(1,2,3,4) of all the SKU's for the given category\n     * linked to the products based on taxonomy_id.\n     * @param Application_Model_Category $category\n     * @return array\n     */\n    public function getCategorySkuList( Application_Model_Category $category ){\n        return array_map(\n            // Use lambda function to convert SimpleXMLelement to integer\n            //function($value) { return (integer)$value; },\n            array( $this, 'toInteger' ),\n            $this->getXml( 'category_sku_list', array( implode( '+', $category->getTaxonomy())))->xpath( '/xml/node/sku' )\n        );\n    }\n\n    public function toInteger( $value ) {\n        return (integer)$value;\n    }\n\n    /**\n     * Get an array linking the CMS nid to an SKU\n     *\n     * @return integer\n     */\n    public function getSkuForNid( $nid ){\n        // Use \"cached\" version\n        if ( null === $this->_nid2sku ) {\n            $this->_nid2sku = array();\n            foreach( $this->getXml( 'nid2sku_list' )->xpath( '/xml/node' ) as $node ) {\n                $this->_nid2sku[(integer)$node->nid] = (integer)$node->sku;\n            }\n        }\n        if ( isset( $this->_nid2sku[$nid] ) ) {\n            return $this->_nid2sku[$nid];\n        }\n        return 0;\n    }\n\n    public function getSkuListXml(){\n        return $this->getXml( 'sku_list' );\n    }\n\n    public function getNidListXml(){\n        return $this->getXml( 'nid_list' );\n    }\n\n    public function getCategoryListXml(){\n        return $this->getXml( 'category_list' );\n    }\n\n    /**\n     * Get data from CMS XML feed and use \"build-in\" caching\n     */\n    public function getXml( $name, $options = array() ){\n        $var_name = '_' . $name . '_xml';\n\n        $url_data = parse_url( $this->_options['endpoint'] );\n        $host  	  = $url_data['host'];\n\n        // Do not cache if options are being used\n        if ( null === $this->$var_name || count( $options ) ) {\n            $xml_url = 'http://' . $host . '/middleware/' . $this->_options['xmlk'] . '/' . $name . '/' . implode( '/', $options );\n            Zend_Registry::get('Zend_Log')->info(\n                get_class( $this ) . ' ' . __FUNCTION__ . ' ' .\n                $xml_url\n            );\n            \n            $curl_handle = curl_init();\n            curl_setopt($curl_handle, CURLOPT_URL, $xml_url);\n            curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 0);\n            curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);\n            curl_setopt($curl_handle, CURLOPT_HTTPHEADER, array( 'Content-Type: text/xml; charset=utf-8' ));\n            $result = curl_exec($curl_handle);\n            \n            if(curl_errno($curl_handle)) {\n                Zend_Registry::get('Zend_Log')->info(\n                    get_class( $this ) . ' ' . __FUNCTION__ . ' CURL Error ' .\n                    curl_error($curl_handle)\n                );\n            }\n            curl_close($curl_handle);\n            \n            $this->$var_name = simplexml_load_string(\n                $result,\n                // LIBXML_NOCDATA makes sure we can handle the CDATA\n                'SimpleXMLElement', LIBXML_NOCDATA);\n        }\n\n        return $this->$var_name;\n    }\n\n    /**\n     * Get the categories as a nested array\n     *\n     * @param string $lang\n     * @param string $shop_type\n     *\n     * @return array\n     */\n    public function getCategories( $lang = false, $shop_type ){\n        Zend_Registry::get('Zend_Log')->info(\n            get_class( $this ) . '::getCategories:Language: ' .\n            ( $lang ? $lang : 'no lang' ) . ', shop type: ' . $shop_type\n        );\n\n        $categories = array();\n\n        foreach( $this->getCategoryList( $lang, $shop_type ) as $idx => $category ) {\n            $nid 	= (integer)$category->nid;\n            $pnid 	= (integer)($category->parent_nid != '' ? $category->parent_nid : 0);\n            $tsid	= (integer)$category->translation_set_id;\n            $timestamp = (integer)$category->timestamp_l_m;\n            $node  = $this->getNode( $nid );\n            $title = $this->encode( $node['title'] );\n\n            Zend_Registry::get('Zend_Log')->info(\n                get_class( $this ) . '::' . __FUNCTION__ .\n                ':found:' . $title . ' with parent ' . $pnid . ' and nid ' . $nid . ' ' . $idx . ' in lang ' . $node['language']\n            );\n\n            $data = array(\n                'name'	 	=> $title,\n                'taxonomy'	=> (isset($node['taxonomy']) ? array_keys( $node['taxonomy'] ) : array()),\n                'shoptype'	=> $shop_type,\n                // Language is an argument but it can also be empty so we take the language from the node\n                'lang'		=> $node['language'],\n                'description'	=> $node['body'],\n                // SEO key phrase support\n                'keyphrase' => (isset($node['field_key_phrase'][0]['value'])) ? $node['field_key_phrase'][0]['value'] : FALSE,\n                'timestamp'	=> $timestamp,\n                'valid'		=> ( $category->valid == 1 ? true : false ),\n                'nid'	=> $nid,\n                'pnid'	=> $pnid,\n                'tsid' 	=> $tsid,\n            );\n\n            // Not all categories will have an image\n            if ( is_array( $image = $node['field_menu_image'][0] ) ) {\n                Zend_Registry::get('Zend_Log')->info(\n                    get_class( $this ) . '::' . __FUNCTION__ .\n                    ':found image for:' . $title .' (' . $nid . ')'\n                );\n                $data['image'] = basename( $image['filepath'] );\n            } else {\n                $data['image'] = false;\n            }\n\n            $categories[] = $data;\n        }\n\n        return $categories;\n    }\n\n    public function getProductAttributes($sku, $shop_type = 'Discount'){\n        // Get the parent NID, we need this one for the images\n        if (!count($p_node = $this->getSkuListXml()->xpath( \"/xml/node/sku[.='\" . $sku . \"']/..\" ))) {\n            return array();\n        }\n        $xml_node		 = array_pop( $p_node );\n        $p_nid 			 = (integer)$xml_node->nid;\n        $p_timestamp_l_m = (integer)$xml_node->timestamp_l_m;\n\n        // We need the parent for the images, taxonomy, cross-sell, up-sell and related products\n        // field_product_image -> filepath\n        $p_node = $this->getNodeCached( $p_nid, $p_timestamp_l_m . $shop_type );\n\n        return $p_node['workflow_productgroup'];\n    }\n\n    public function getProduct( $sku, $lang, $shop_type ){\n        Zend_Registry::get('Zend_Log')->info(\n            __CLASS__  . '::' . __FUNCTION__ .\n            ':sku:' . $sku .\n            ':lang:' . $lang .\n            ':shop_type:' . $shop_type\n        );\n\n        // Force SKU to integer\n        $sku = (integer)$sku;\n\n        // Get the parent NID, we need this one for the images\n        if (!count($p_node = $this->getSkuListXml()->xpath( \"/xml/node/sku[.='\" . $sku . \"']/..\" ))) {\n            return array();\n        }\n\n        $xml_node		 = array_pop( $p_node );\n        $p_nid 			 = (integer)$xml_node->nid;\n        $p_timestamp_l_m = (integer)$xml_node->timestamp_l_m;\n\n        // We need the parent for the images, taxonomy, cross-sell, up-sell and related products\n        // field_product_image -> filepath\n        $p_node = $this->getNodeCached( $p_nid, $p_timestamp_l_m . $shop_type );\n\n        $taxonomy = $p_node['taxonomy'];\n        $galleryImageCount = 0;\n        $isConfigurable = (isset($p_node['field_workflow_configurable'][0]['value'])) ? $p_node['field_workflow_configurable'][0]['value'] : false;\n\n        $images = array();\n        if (isset($p_node['field_product_image'])) {\n            foreach( $p_node['field_product_image'] as $idx => $raw_image ) {\n                if ( is_array( $raw_image ) && isset( $p_node['field_product_image_type'][$idx] ) ) {\n                    if(in_array($p_node['field_product_image_type'][$idx]['value'], array(4691,4692,3955, 4695))){\n                        $galleryImageCount++;\n                    }\n                    if ($isConfigurable) {\n                        $galleryImageCount = 1;\n                    }\n                    $images[] = array(\n                        'filepath' => str_replace( ' ', '%20', $raw_image['filepath'] ),\n                        'type'	   => $this->getImageTypeName($p_node['field_product_image_type'][$idx]['value']\n                    ),\n                );\n                }\n            }\n        }\n\n        /**\n         * Get the node (product) NID\n         * @todo the return value should be an XML object. Sometimes this is not the case. Break out of code and return\n         * the reason for this break.\n         */\n        $node_list = $this->getNidListXml()->xpath( \"/xml/node/sku[.='\" . $sku . \"']/..\" );\n\n        // @todo This is cheesy, should be in xpath\n        /* Structure is like:\n         *\n         object(SimpleXMLElement)#1790 (4) {\n         [\"lang\"]=>\n             string(6) \"German\"\n             [\"nid\"]=>\n             string(4) \"1369\"\n             [\"shop_type\"]=>\n             string(6) \"VidaXL\"\n             [\"sku\"]=>\n             string(5) \"10023\"\n         }\n         */\n        $found = false;\n        foreach( $node_list as $node ){\n            // Build up an array for possible languages.\n            if (preg_match(\"|<[^>]+>|\", (string)$node->shop_type)) {\n                $arr = preg_split(\"|<[^>]+>|\", $node->shop_type);\n                foreach ($arr as $value) {\n                    if (strlen($value)) {\n                        $language[$value][] = (string)$node->lang;\n                    }\n                }\n            }else {\n                $language[(string)$node->shop_type][] = (string)$node->lang;\n            }\n\n            if ($node->lang == $this->getLanguageName( $lang )) {\n                if ($shop_type == false) {\n\n                    // This is the node to use.\n                    $update_node = $node;\n                    $found = true;\n                    break;\n                } elseif (strstr($node->shop_type, $shop_type) !== false) {\n\n                    // There might be more then one shop type. What are the different shop types in the system?\n                    $found = true;\n\n                    // This is the node to use.\n                    $update_node = $node;\n\n                    $arr = preg_split(\"|<[^>]+>|\", $node->shop_type);\n\n                    foreach ($arr as $value) {\n                        if (strlen($value)) {\n                            $shop_types[$value] = $value;\n                        }\n                    }\n                    // Remove duplicates.\n                    array_unique($shop_types);\n                }\n            }\n        }\n        // Did we find a node?\n        if ( !$found ) {\n            Zend_Registry::get('Zend_Log')->info(\n                get_class( $this ) . '::' . __FUNCTION__ . ':' .\n                ' No product found for sku: ' . $sku .\n                ' shop_type: ' . $shop_type .\n                ' lang: ' . $lang\n            );\n            return array();\n        } else {\n            $nid = (integer)$update_node->nid;\n        }\n        foreach ($language as $key => $lan) {\n            $shop_types[$key] = $lan;\n        }\n        /**\n         * Node has CCK fields with structure as shown below\n         [\"field_teaser\"]=>\n         array(1) {\n             [0]=>\n                 array(2) {\n                     [\"value\"]=>\n                         string(131) \"Stoere beachcruiser zonder versnellingen.De beachcruiser heeft een mooi robuust frame, brede banden en een zeer comfortabel zadel. \"\n                         [\"format\"]=>\n                         string(0) \"\"\n                 }\n         }\n         */\n        $node = $this->getNodeCached( $nid, ( $timestamp_l_m = (integer)$update_node->timestamp_l_m ) . $shop_type );\n\n        $productAttribute = $this->getProductAttributes($sku);\n        $cmsGroupId       = key($productAttribute);\n        $cmsGroupName     = '';\n        if (isset($productAttribute[$cmsGroupId]['group_name'])) {\n            $cmsGroupName = $productAttribute[$cmsGroupId]['group_name'];\n        }\n        $attributeSet     = $cmsGroupName . ' [' . $cmsGroupId . ']';\n        \n        Zend_Registry::get('Zend_Log')->info(\n            get_class($this) . '::' . __FUNCTION__ . ':' .\n            ':valid:sku:' . $sku .\n            ':parent node valid: ' . $p_node['field_product_available'][0]['value']\n        );\n\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class($this) . '::' . __FUNCTION__ . ':' .\n            ' Valid check for sku: ' . $sku .\n            ':parent node valid: ' . $p_node['field_product_available'][0]['value'] .\n            ':Special price' . print_r($node['field_special_price'], true) .\n            ':node id: ' . print_r($node['nid'], true) .\n            ':node title: ' . print_r($node['title'], true) .\n            ':node product valid: ' . print_r($node['field_product_valid'], true) .\n            ':full product: ' . print_r($node, true)\n        );\n        return array(\n            'nid'	 => $node['nid'],\n            'pnid'	 => $p_node['nid'],\n            'images' => $images,\n            'name' 	 => $this->encode( $node['title'] ),\n            'price'	 => $node['field_product_price'][0]['value'],\n            'costs'  => ( isset( $node['field_product_costs'] ) ? $node['field_product_costs'][0]['value'] : '' ),\n            'special_price' => (isset($node['field_special_price'])) ? $node['field_special_price'][0]['value'] : false,\n\n            'gross_proc_price'	=> $p_node['field_product_gross_proc_price'][0]['value'],\n            'net_proc_price'    => $p_node['field_product_net_proc_price'][0]['value'],\n\n            'shortdescription'	=> $this->encode( $node['field_teaser'][0]['value'] ),\n            'description'		=> $this->encode( $node['body'] ),\n            'properties'		=>\n            $this->encode( $this->convertProperties($node['field_product_properties'][0]['value'])),    // Convert the properties to a decent layout / format\n            'taxonomy'	=> $taxonomy,\n\n            // Valid if only both parent and product are valid\n            'valid'	=> ($node['field_magento_product_status'][0]['value'] == 'Online' ? 1 : 0),\n\n             //ERP\n            'stock'		=> (integer)$p_node['field_product_stock'][0]['value'],\n            'stock_last_updated' => $p_node['field_stock_last_updated'][0]['value'],\n\n             // SKU override, enabling to switch SKU for specific product translations\n            'sku_override'	=> (integer)$node['field_sku_override'][0]['value'],\n\n            // Cross,up and related is taken from parent, convert the nids to SKU's\n            'up_sell_products' =>  (isset($p_node['field_product_up_sell']) ? array_map( array( $this, 'getSkuForNid' ), $this->convertFieldToArray( $p_node['field_product_up_sell'] ) ) :    array()),\n\n            'cross_sell_products' => (isset($p_node['field_product_cross_sell']) ? array_map( array( $this, 'getSkuForNid' ), $this->convertFieldToArray( $p_node['field_product_cross_sell'] ) ) : array() ),\n\n            'related_products' => (isset($p_node['field_product_related']) ? array_map( array( $this, 'getSkuForNid' ), $this->convertFieldToArray( $p_node['field_product_related'] ) ) : array()),\n\n            'sku'		=> $sku,\n            'related'	=> (is_array($shop_types)) ? $shop_types : false,\n            'shoptype'  => $shop_type,\n            'lang'		=> $lang,\n            'timestamp'	=> max( $p_timestamp_l_m, $timestamp_l_m ),\n            'gallery_image_count' => $galleryImageCount,\n            'original_sku'	=> $sku,\n            // SEO Key phrase.\n            'key_phrase' => (isset($node['field_key_phrase'][0]['value'])) ? $node['field_key_phrase'][0]['value'] : false,\n            'is_configurable'   => $isConfigurable,\n            'product_attribute' => $productAttribute,\n            'attribute_set'     => $attributeSet,\n            'brand'             => (isset($p_node['field_brand'][0]['value'])) ? $p_node['field_brand'][0]['value'] : '',\n            'ean'               => (isset($p_node['field_ean'][0]['value'])) ? $p_node['field_ean'][0]['value'] : '',\n\n        );\n    }\n\n    public function getNodeCached( $nid, $hash, $fields = array() ) {\n        // qas.middleman and the live middleman share the same hash files. Set an extra hash of the header. \n        // This will distinguis between qas instance and the live instance.\n        $request = new Zend_Controller_Request_Http();\n        // Create a hash of the baseurl. This prefents overalpping cache files between qas and live.\n        $location_hash = sha1($request->getBaseUrl());\n        $filename = '/tmp/node_' . $nid . '_' . $hash . '_' . $location_hash;\n\n        Zend_Registry::get('Zend_Log')->info(\n            get_class( $this ) . '::' . __FUNCTION__ . ':' .\n            ' nid: ' . $nid .\n            ' hash: ' . $hash .\n            ' filename: ' . $filename .\n            ' the hash location is: ' . $location_hash\n        );\n\n        if (!$this->validate_cache_file(\n            $filename,\n            $nid,\n            $fields,\n            isset($_GET['cleanproduct']) ? $_GET['cleanproduct'] : false )\n        ) {\n            // failed to create new cache file\n            Zend_Registry::get('Zend_Log')->info(\n                __CLASS__ . '::' . __FUNCTION__ . ':' .\n                'ERROR failed to create cache file for: ' . $filename\n            );\n        }\n        return unserialize(file_get_contents($filename));\n    }\n\n    /**\n     * @param string $filename Filename to check on.\n     * @param int $nid The NID of the node to be cached\n     * @param array $fields\n     * @param boolean $clean Create a new cache or use the current one.\n     * @return boolean\n     */\n    public function validate_cache_file($filename, $nid, $fields, $clean = FALSE) {\n        // de we create a new cache or serve the current one. If the clean is set always serve a new cache\n        $new_cache = ($clean) ? TRUE : FALSE;\n\n        // Do we have a file.\n        if (!$new_cache && !is_file($filename)) {\n            $new_cache = TRUE;\n        }\n        // is the file filled with any data?\n        // count unserialize on an empty string returns 1;\n        if (!$new_cache && count(unserialize(file_get_contents($filename))) == 1) {\n            $new_cache = TRUE;\n        }\n\n        // create a new cache?\n        if ($new_cache) {\n            return file_put_contents($filename, serialize($this->getNode($nid, $fields)));\n        }\n        return TRUE;\n    }\n\n    /**\n     * @param unknown $nid\n     * @param unknown $fields\n     */\n    public function getNode( $nid, $fields = array() )  {\n        Zend_Registry::get('Zend_Log')->info(\n            get_class($this) . '::' . __FUNCTION__ . ':' .\n            ' nid: ' . $nid\n        );\n        return $this->requestSend($this->_methods->NODE_GET, array($nid))->getResult();\n    }\n\n    /**\n     * Node has CCK fields with structure as shown below\n     *\n     *  [\"field_teaser\"]=>\n     *    array(1) {\n     *	    [0]=>\n     * 	    array(2) {\n     *	      [\"value\"]=>\n     *	      string(131) \"Stoere beachcruiser zonder versnellingen.De beachcruiser heeft een mooi robuust frame, brede banden en een zeer comfortabel zadel. \"\n     *	      [\"format\"]=>\n     *	      string(0) \"\"\n     *	    }\n     *	  }\n     *\n     * @param Application_Model_Product $product\n     * @param Array $fields - fields to sync, keep empty to sync all fields\n     */\n    public function saveNode( Application_Model_Product $product, $fields = array() ){\n        Zend_Registry::get('Zend_Log')->info(\n            get_class($this) . '::' . __FUNCTION__ . ':' .\n            ' With node id : ' . $product->getNid() . ' : ' .\n            ' And sku : ' . $product->getSku() . ' : ' .\n            ' With fields ' . implode( ',', $fields )\n        );\n        $nodeData 	= array();\n        $fieldMatch = array(\n            'price'			=> 'field_product_price',\n            'specialprice'  => 'field_special_price',\n            'nid'			=> 'nid',\n            'description'	=> 'body',\n            'costs'			=> 'field_product_costs',\n            'amazon_price'  => 'field_product_amazon_price',\n            // Note: this is the valid for a product, not for a parent product (!)\n            'valid'			=> 'field_product_valid',\n        ); \n        $parentFieldMatch = array(\n            'gross_proc_price'	=> 'field_product_gross_proc_price',\n            'net_proc_price'	=> 'field_product_net_proc_price',\n            'stock' 			=> 'field_product_stock',\n            'product_package_coun' => 'field_product_package_coun',\n            'shipping_code'     => 'field_product_shipping_code',\n            'stock_last_updated'=> 'field_stock_last_updated',\n        );\n\n        $nodeDataFull = array(\n            // NID is alread set in the node save call\n            //'nid'			=> $product->getNid(),\n            'description'		=> $product->getDescription(),\n            'price'				=> array( array( 'value' => $product->getPrice() ) ),\n            'specialprice' 		=> array( array( 'value' => $product->getSpecialPrice() ) ),\n            'costs'				=> array( array( 'value' => $product->getCosts() ) ),\n            'valid'				=> array( array( 'value' => $product->getValid() ) ),\n            'amazon_price'      => array( array( 'value' => $product->getAmazonPrice() ) ),\n        );\n\n        $nodeParentDataFull = array(\n            'stock'				=> array( array( 'value' => $product->getStock() ) ),\n            'gross_proc_price'  => array( array( 'value' => $product->getGrossProcPrice() ) ),\n            'net_proc_price'    => array( array( 'value' => $product->getNetProcPrice(), '_error_element' => 'field_product_net_proc_price][0][value' ) ),\n            'product_package_coun' => array( array( 'value' => $product->getOutboundCartons())),\n            'shipping_code'     => array( array( 'value' => $product->getShippingCode())),\n            'stock_last_updated'=> array( array( 'value' => $product->getStockLastUpdated())),\n        );\n        $nodeData['type'] 	 = 'woger_product';\n\n        if (count($fields)) {\n            $fields	= array_merge(array('nid', 'type'), $fields);\n            foreach ($fields as $field ) {\n                if (isset($nodeDataFull[$field])) {\n                    $nodeData[$fieldMatch[$field]] = $nodeDataFull[$field];\n                }\n                if (isset($nodeParentDataFull[$field])) {\n                    $nodeData[$parentFieldMatch[$field]] = $nodeParentDataFull[$field];\n                    // If we are using parent fields we are editing a parent product - so we have to switch the node type, we assume\n                    // the NID being used is parent NID. We would like to keep this fn call as transaparent as possible\n                    $nodeData['type'] = 'woger_parent_product';\n                }\n            }\n        } else {\n            $nodeData = $nodeDataFull;\n        }\n        $nodeData['changed'] = time();\n\n        if(in_array('revision', $fields) && isset($product->revision)){\n            $nodeData['revision'] = $product->revision;\n        }\n        // Clear the cache\n        $files = glob('/tmp/node_' . $product->getNid() . '*');\n        array_walk( $files, array( $this, '_unlink'));\n\n        Zend_Registry::get('Zend_Log')->info(\n            get_class($this) . '::' . __FUNCTION__ .\n            '::Node data' . print_r( $nodeData, true )\n        );\n        return $this->requestSend($this->_methods->NODE_SAVE, array( $product->getNid(), $nodeData ) )->getResult();\n    }\n\n    private function _unlink($t){\n        unlink($t);\n    }\n\n    public function getImageTypeName( $id ){\n        $types = $this->getImageTypes();\n        if ( !isset($types[$id]) ) {\n            Zend_Registry::get('Zend_Log')->debug(\n                get_class($this) . '::' . __FUNCTION__ . ':' .\n                ' could not find image type name for : ' . $id\n            );\n            return $types['default'];\n        }\n        return $types[$id];\n    }\n\n    /**\n     * @return array array\n     *   Key is the term id known in Drupal value is the name associated with this id.\n     */\n    public function getImageTypes(){\n        return array(\n            '4692'  => 'Main image white background',\n            '4691'  => 'Main image',\n            '3955' 	=> 'Gallery',\n            '20'	=> 'Large',\n            '21' 	=> 'Generic',\n            'default'	=> 'Generic',\n            '19' 	=> 'Thumbnail',\n        );\n    }\n\n    public function getLanguageName( $code ){\n        $languages = $this->getLanguages();\n        return $languages[$code];\n    }\n\n    /**\n     * Cleanup the properties\n     *\n     * @param string $properties\n     * @return string\n     */\n    private function convertProperties( $properties ){\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class($this) . '::' . __FUNCTION__ . ':start'\n        );\n        $properties = str_replace(\n            array( '&nbsp;', \"\\n\", \"\\r\", \"\\t\", '  ' ),\n            array( '', ' ', ' ', '', ' ' ),\n            $properties\n        );\n        $preg_regex = array(\n            '/<p>.+(<br \\/>.+)+<\\/p>/U' => array(\n                array( '/<p(\\/)?>/'	, '/((.+)<br \\/>)+/U' ),\n                array( ''		 	, '<li>$2</li>' )\n            ),\n            '/.*/' 					    => array('/<p><\\/p>/U'		  	, '' ),\n            '/(<p>(.*)<\\/p>)+/U' 		=> array('/<p>(.*)<\\/p>/U'	  	, '<li>$1</li>' ),\n        );\n        foreach($preg_regex as $match_regex => $replace_regex) {\n            if (preg_match($match_regex, $properties)) {\n                $properties = preg_replace($replace_regex[0], $replace_regex[1], $properties);\n            }\n        }\n        // Fold the UL\n        $properties = '<ul>' . $properties . '</ul>';\n\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class($this) . '::' . __FUNCTION__ . ':' .\n            'properties converted to:' . $properties\n        );\n        return $properties;\n    }\n\n    /**\n     * @todo Should be in helper?\n     */\n    public function getLanguages(){\n        return array(\n            'nl' => 'Dutch',\n            'it' => 'Italian',\n            'en' => 'English',\n            'de' => 'German',\n            'sv' => 'Swedish',\n            'se' => 'Swedish',\n            'pl' => 'Polish',\n            'fr' => 'French',\n        );\n    }\n\n    public function getShops(){\n        return array('Discount', 'Beanbag', 'Photography', 'Bike');\n    }\n\n    /**\n     * @todo Should be in helper?\n     */\n    public function encode( $data ){\n        $converted = mb_convert_encoding(\n            $data, 'UTF-8',\n            $encoding = mb_detect_encoding($data, 'UTF-8, ISO-8859-1, ISO-8859-2')\n        );\n        Zend_Registry::get('Zend_Log')->debug(\n            get_class($this) . '::' . __FUNCTION__ . ':' .\n            '\"' . $data .\n            '\" (encoding is '. $encoding . ') -> \"' . $converted . '\"'\n        );\n        return $converted;\n    }\n\n    /**\n     * @todo Should be in helper?\n     * Convert NID to integere, structure is like below\n     *\n     * [field_product_up_sell] => Array\n     (\n         [0] => Array\n         (\n             [nid] =>\n         )\n         [1] => Array\n         (\n             [nid] => 129\n         )\n         [2] => Array\n         (\n             [nid] => 130\n         )\n         [3] => Array\n         (\n             [nid] => 131\n         )\n     )\n     */\n    public function convertFieldToArray( $field ){\n        if ($field) {\n            return array_map(\n                create_function('$a', 'return (integer)$a[\"nid\"];'), $field\n            );\n        }\n        return FALSE;\n    }\n\n    public function getSingleCategoryData($node_id) {\n\n        $categoryDataV1 = $this->getXml('category_list', array($node_id));\n\n        if ($categoryDataV1 && property_exists($categoryDataV1, 'node')) {\n            $category = new Application_Model_Category;\n            $categoryDataV1 = $categoryDataV1->node;\n            $categoryDataV2 = (object) $this->getNode($node_id);\n            $category->setNid((integer) $categoryDataV2->nid);\n            $category->setPnid((integer) ($categoryDataV1->parent_nid != '' ? $categoryDataV1->parent_nid : 0));\n            $category->setTsid((integer) $categoryDataV2->tnid);\n            $category->setTimestamp((integer) $categoryDataV1->timestamp_l_m);\n            $category->setName($this->encode($categoryDataV2->title));\n            $category->setTaxonomy(array_keys( $categoryDataV2->taxonomy));\n\n            $shopType = (array) $categoryDataV1->shop_type;\n            $category->setShoptype($shopType[0]);\n\n            // Language is an argument but it can also be empty so  we take the language from the node\n            $category->setLang($categoryDataV2->language);\n\n            $category->setDescription($categoryDataV2->body);\n            $category->setValid($categoryDataV1->valid == 1 ? true : false);\n\n            // Not all categories will have an image\n            if ( is_array( $image = $categoryDataV2->field_menu_image[0] ) ) {\n\n                Zend_Registry::get('Zend_Log')->info(\n                    get_class( $this ) . '::' . __FUNCTION__ .\n                    ':found image for:' . $category->getName() .' (' . $category->getNid() . ')'\n                );\n\n                $category->setImage(basename($image['filepath']));\n            } else {\n                $category->setImage(false);\n            }\n            return $category;\n        }\n        Zend_Registry::get('Zend_Log')->info(\n            __CLASS__ . '::' . __FUNCTION__ . ':' .\n            ' no category data found for CMS NID: ' . $node_id\n        );\n\n        return false;\n    }\n    \n    /**\n     * Get the attribute details\n     */\n    public function getAttribute($attributeId)\n    {\n        $url_data = parse_url($this->_options['endpoint']);\n        $host     = $url_data['host'];\n    \n        $content_response =	file_get_contents(\n            $xml_url = 'http://' . $host . '/woger_workflow/attribute/' . $attributeId\n        );\n        if ($content_response == 'false') {\n            return  false;\n        }else {\n            $xml =  simplexml_load_string($content_response);\n        }\n    \n        Zend_Registry::get('Zend_Log')->info(\n            get_class( $this ) . ' ' . __FUNCTION__ . ' ' .\n            $xml_url\n        );\n    \n        return $this->xmlToArray($xml);\n    }\n\n    function xmlToArray(SimpleXMLElement $xml,$attributesKey=null,$childrenKey=null,$valueKey=null){\n\n        if($childrenKey && !is_string($childrenKey)){$childrenKey = '@children';}\n        if($attributesKey && !is_string($attributesKey)){$attributesKey = '@attributes';}\n        if($valueKey && !is_string($valueKey)){$valueKey = '@values';}\n\n        $return = array();\n        $name = $xml->getName();\n        $_value = trim((string)$xml);\n        if(!strlen($_value)){$_value = null;};\n\n        if($_value!==null){\n            if($valueKey){$return[$valueKey] = $_value;}\n            else{$return = $_value;}\n        }\n\n        $children = array();\n        $first = true;\n        foreach($xml->children() as $elementName => $child){\n            $value = $this->xmlToArray($child,$attributesKey, $childrenKey,$valueKey);\n            if(isset($children[$elementName])){\n                if(is_array($children[$elementName])){\n                    if($first){\n                        $temp = $children[$elementName];\n                        unset($children[$elementName]);\n                        $children[$elementName][] = $temp;\n                        $first=false;\n                    }\n                    $children[$elementName][] = $value;\n                }else{\n                    $children[$elementName] = array($children[$elementName],$value);\n                }\n            }\n            else{\n                $children[$elementName] = $value;\n            }\n        }\n        if($children){\n            if($childrenKey){$return[$childrenKey] = $children;}\n            else{$return = array_merge($return,$children);}\n        }\n\n        $attributes = array();\n        foreach($xml->attributes() as $name=>$value){\n            $attributes[$name] = trim($value);\n        }\n        if($attributes){\n            if($attributesKey){$return[$attributesKey] = $attributes;}\n            else{$return = array_merge($return, $attributes);}\n        }\n\n        return $return;\n    }\n\n}\n\nclass Middleman_Resource_CmsConnector_RequestResult{\n    private $_result;\n\n    public function __construct( $result ){\n        $this->_result = $result;\n    }\n\n    public function getResult(){\n        return $this->_result;\n    }\n\n    public function __toString(){\n        return $this->_result;\n    }\n}\n\nclass Middleman_Resource_CmsConnector_Methods{\n    const CONNECT 	= 'system.connect';\n    const LOGIN		= 'user.login';\n    const LOGOUT	= 'user.logout';\n    const SERVICES_GET = 'system.getServices';\n\n    // ref: http://cms.woger-cdn.com/admin/build/services/browse/node.get\n    const NODE_GET	= 'node.retrieve';\n\n    // ref: http://cms.woger-cdn.com/admin/build/services/browse/node.update\n    const NODE_SAVE = 'node.update';\n\n    // ref: http://cms.woger-cdn.com/admin/build/services/browse/search.nodes\n    const SEARCH_NODES = 'search.nodes';\n\n    public function __get($name){\n        if (!constant($constant = get_class($this) . '::' . $name)) {\n            throw new Exception('Invalid ' . get_class($this) . ' const');\n        }\n        return constant($constant);\n    }\n}\n",
+					"file": "/home/silas/app/middleman/library/Middleman/Resource/Cmsconnector.php",
+					"file_size": 46880,
+					"file_write_time": 1393308997000000,
+					"settings":
+					{
+						"buffer_size": 46782,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/application/models/CmsMapper.php",
+					"settings":
+					{
+						"buffer_size": 11755,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/application/models/Product.php",
+					"settings":
+					{
+						"buffer_size": 12607,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/application/controllers/StockController.php",
+					"settings":
+					{
+						"buffer_size": 12606,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/silas/app/middleman/application/models/MagentoMapper.php",
+					"settings":
+					{
+						"buffer_size": 18339,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":php",
+						"Snippet: php_eval"
+					],
+					[
+						"Snippet: ",
+						"Snippet: blocks"
+					],
+					[
+						":g",
+						"Git: Gitk"
+					],
+					[
+						":gitk",
+						"Git: Gitk"
+					],
+					[
+						":git",
+						"Git: Gitk"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"alignment",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						":sni",
+						"Snippet: field_ui_get_destinations"
+					],
+					[
+						"sip",
+						"Snippet: node_is_page"
+					],
+					[
+						"Git: Gitk",
+						"Git: Gitk"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"svn info",
+						"SVN: Info"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git: add ",
+						"Git: Add Current File"
+					],
+					[
+						"git: G",
+						"Git: Gitk"
+					],
+					[
+						"svn log",
+						"SVN: Log"
+					],
+					[
+						"svn:status",
+						"SVN: Status"
+					],
+					[
+						":gui",
+						"Git: Graph Current File"
+					],
+					[
+						":Gui",
+						"Git: Gui"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/silas/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/silas/app/middleman/library/Zend/Dojo/Form/Element/ComboBox.php",
+				"/home/silas/app/middleman/library/Middleman/Resource/Magentoconnector.php",
+				"/home/silas/app/cms/sites/all/modules/ebay/themes/ebay.tpl.php",
+				"/home/silas/app/cms/sites/all/modules/woger/woger.module",
+				"/home/silas/app/cms/INSTALL.txt",
+				"/home/silas/app/cms/sites/all/modules/export_pdf/templates/partlist.tpl.php",
+				"/home/silas/app/cms/tian",
+				"/home/silas/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/silas/app/cms/devel/tian.php",
+				"/home/silas/app/cms/devel/drupal_write_record.php",
+				"/home/silas/app/cms/index.php",
+				"/home/silas/app/cms/devel/category.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"catalogProductUpdate",
+					"productUpdate",
+					"endpoint",
+					"_options",
+					"call",
+					"connection_timeout",
+					"conenct",
+					"file",
+					"getProductData",
+					"product",
+					"/**",
+					"          \n",
+					"setStoreType",
+					"ctrl+>",
+					"ctrl+b",
+					"ctrl+<",
+					"ctrl+b",
+					"setShopType",
+					"_sync",
+					"_options",
+					"getNode",
+					"_cmsConnectorResource",
+					"Application_Model_CmsConnector_Cms",
+					"getProduct",
+					"Application_Model_CmsConnector_Cms",
+					"setCmsConnector",
+					"cmsConnector",
+					"convertProperties",
+					"getNodeCached",
+					"p_node",
+					"getNodeCached",
+					"setNodeCached",
+					"getNodeCached",
+					"setShoptypeRelated",
+					"getCmsConnector",
+					"getProduct",
+					"translation",
+					"getProduct",
+					"syncProduct",
+					"sku",
+					"syncProducts",
+					"update_node",
+					"translation",
+					"syncProduct",
+					"syncProducts",
+					"node_",
+					"node_retrieve",
+					"syncProduct",
+					"syncProducts",
+					"_productSync",
+					"productSync",
+					"syncProduct",
+					"syncProducts",
+					"prodcut",
+					"prodcut_image",
+					"woger_product_parts",
+					"diff",
+					"node",
+					"node_diff_prepare",
+					"filefield_remove",
+					"field_temp",
+					"image",
+					"_error_element",
+					"field",
+					"export_partlist_pdf",
+					"ctrl+f",
+					"ctrl+shift+f",
+					"shift",
+					"ctrl+shift+f",
+					"ctrl+shift+b",
+					"ctrl+b",
+					"uid",
+					"These",
+					"forward",
+					"db_change_co",
+					"attributes",
+					"db_add_column",
+					"column",
+					"MAINTENANCE_MODE",
+					"define",
+					"form",
+					"module",
+					"node_load"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"        );"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/silas/app/middleman"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/silas/app/middleman/application/models/EGain.php",
+							"settings":
+							{
+								"buffer_size": 10080,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2992.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/silas/app/middleman/application/controllers/SyncController.php",
+							"settings":
+							{
+								"buffer_size": 8440,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/silas/app/middleman/application/models/Sync.php",
+							"settings":
+							{
+								"buffer_size": 37653,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7290,
+										7290
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3871.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/silas/app/middleman/application/models/MagentoConnector/Magento.php",
+							"settings":
+							{
+								"buffer_size": 12689,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3667,
+										3667
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1544.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/silas/app/middleman/library/Middleman/Resource/Magentoconnector.php",
+							"settings":
+							{
+								"buffer_size": 184104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										170373,
+										170373
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 80983.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/silas/app/middleman/library/Middleman/Resource/Cmsconnector.php",
+							"settings":
+							{
+								"buffer_size": 46782,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										437,
+										437
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/silas/app/middleman/application/models/CmsMapper.php",
+							"settings":
+							{
+								"buffer_size": 11755,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										436,
+										436
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/silas/app/middleman/application/models/Product.php",
+							"settings":
+							{
+								"buffer_size": 12607,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1704,
+										1704
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1428.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/silas/app/middleman/application/controllers/StockController.php",
+							"settings":
+							{
+								"buffer_size": 12606,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12165,
+										12165
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6064.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/silas/app/middleman/application/models/MagentoMapper.php",
+							"settings":
+							{
+								"buffer_size": 18339,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18334,
+										18334
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 9129.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"magentom",
+						"application/models/MagentoMapper.php"
+					],
+					[
+						"sync",
+						"application/models/Sync.php"
+					],
+					[
+						"synccon",
+						"application/controllers/SyncController.php"
+					],
+					[
+						"stock",
+						"application/controllers/StockController.php"
+					],
+					[
+						"pro",
+						"application/models/Product.php"
+					],
+					[
+						"cms",
+						"application/models/CmsMapper.php"
+					],
+					[
+						"magen",
+						"library/Middleman/Resource/Magentoconnector.php"
+					],
+					[
+						"e",
+						"application/models/EGain.php"
+					],
+					[
+						"part",
+						"sites/all/modules/export_pdf/templates/partlist.tpl.php"
+					],
+					[
+						"mysql",
+						"includes/database.mysql.inc"
+					],
+					[
+						"woger_pa",
+						"sites/all/modules/woger_parts_management/woger_parts_management.module"
+					],
+					[
+						"woger_ac",
+						"sites/all/modules/woger_actions/woger_actions.module"
+					],
+					[
+						"ebay.tp",
+						"sites/all/modules/ebay/themes/ebay.tpl.php"
+					],
+					[
+						"ebay.t",
+						"sites/all/modules/ebay/themes/ebay.tpl.php"
+					],
+					[
+						"woger",
+						"temp_workflow_2/woger_workflow/woger_workflow.module"
+					],
+					[
+						"woger.m",
+						"sites/all/modules/woger/woger.module"
+					],
+					[
+						"node",
+						"modules/node/node.module"
+					],
+					[
+						"in",
+						"INSTALL.txt"
+					],
+					[
+						"node.m",
+						"modules/node/node.module"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"inst",
+						"INSTALL.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"window_id": 10,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/silas/app/cms/cms.sublime-project"
+		]
+	}
+}

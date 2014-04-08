@@ -1,0 +1,4 @@
+[04/07/2014 09:11:28上午] INFO - ==== Loading 'Xdebug Client' package ====
+[04/07/2014 09:11:28上午] INFO - Conflicting packages detected.
+[04/07/2014 09:53:36上午] INFO - scan_purelang: path: u'/mnt/app/cms/sites/all/modules/ebay/ebay.module' lang: HTML
+[04/07/2014 09:53:36上午] INFO - scan_multilang: path: u'/mnt/app/cms/sites/all/modules/ebay/ebay.module' lang: HTML

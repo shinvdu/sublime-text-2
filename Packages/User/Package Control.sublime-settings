@@ -1,0 +1,33 @@
+{
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Alignment",
+		"AlignTab",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CTags",
+		"CTags for PHP",
+		"Drupal",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"jQuery",
+		"Markdown Extended",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"Simple Rails Navigator",
+		"sublime-closure-linter",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"SublimeEvernote",
+		"SublimeLinter",
+		"SVN",
+		"SyncedSideBar",
+		"Terminal",
+		"Theme - Flatland",
+		"VAlign",
+		"Xdebug",
+		"Xdebug Client"
+	]
+}
